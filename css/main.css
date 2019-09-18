@@ -52,3 +52,18 @@ article {
   font-weight: lighter;
 }
 
+hr {
+  border-top: .75px solid #000;
+  width: 95px;
+}
+
+h1:before {
+  content: "";
+  width: 35px;
+  display: block;
+  height: 1px;
+  position: absolute;
+  background-color: #000;
+  left: 0;
+  top: 11.5%;
+}
