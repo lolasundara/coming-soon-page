@@ -32,7 +32,8 @@ article {
 
 .left-half {
   display: inline-block;
-  background-color: #E6A770;
+  background-color: #6C9049;
+  opacity: 0.35;
   position: absolute;
   left: 0px;
   width: 50%;
@@ -41,6 +42,7 @@ article {
 .right-half {
   display: inline-block;
   background-color: #fff;
+  color: #000;
   position: absolute;
   right: 0px;
   width: 50%;
